@@ -467,3 +467,11 @@ footer p {
 .project-img {
     cursor: pointer;
 }
+
+.project-1,
+.project-2,
+.project-3,
+.project-4 {
+    height: 720px;
+    /* Adjust the height as needed */
+}
